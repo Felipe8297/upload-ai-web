@@ -13,6 +13,10 @@ import {
 import { Slider } from './components/ui/slider'
 import { VideoInputForm } from './components/video-input-form'
 
+
+
+//teste
+
 export function App() {
   return (
     <div className="min-h-screen flex flex-col">
