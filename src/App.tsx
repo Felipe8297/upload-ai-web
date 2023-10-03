@@ -51,8 +51,15 @@ export function App() {
           <Separator orientation="vertical" className="h-6" />
 
           <Button variant="outline">
-            <Github className="w-4 h-4 mr-2" />
-            GitHub
+            <a
+              href="https://github.com/Felipe8297"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center"
+            >
+              <Github className="w-4 h-4 mr-2" />
+              GitHub
+            </a>
           </Button>
         </div>
       </div>
